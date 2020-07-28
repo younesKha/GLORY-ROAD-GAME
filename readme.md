@@ -5,7 +5,7 @@
 https://lightingteam.wordpress.com/projects/the-glory-road-complete-project/
 
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of Yaktocat](https://github.com/younesKha/GLORY-ROAD-GAME/blob/master/data/a3.jpg)
 
 -you can download it from here
 https://drive.google.com/drive/folders/1xGz9v1I44myroMfzGZS7giCeJAvrUkuv?usp=sharing
