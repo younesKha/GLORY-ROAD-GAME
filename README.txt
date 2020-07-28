@@ -6,8 +6,8 @@
 https://lightingteam.wordpress.com/projects/the-glory-road-complete-project/
 
 
-![GitHub Logo](https://github.com/younesKha/GLORY-ROAD-GAME/blob/master/data/Gtexture/mg.JPG)
-Format: ![Alt Text](https://github.com/younesKha/GLORY-ROAD-GAME/blob/master/data/Gtexture/mg.JPG)
+![Image of Yaktocat](https://https://github.com/younesKha/GLORY-ROAD-GAME/blob/master/data/Gtexture/mg.JPG)
+
 
 -you can download it from here
 https://drive.google.com/drive/folders/1xGz9v1I44myroMfzGZS7giCeJAvrUkuv?usp=sharing
